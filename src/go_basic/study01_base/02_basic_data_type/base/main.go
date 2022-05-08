@@ -51,7 +51,7 @@ func main() {
 	//  \"	双引号
 	//	\\	反斜杠
 	// windows下打印自己的地址
-	fmt.Println("str := \\golang\\go_basic_learning")
+	fmt.Println("str := \\golang\\golang_learning")
 
 	// byte 和 rune
 	// uint8类型，或者叫 byte 型，代表了ASCII码的一个字符。
